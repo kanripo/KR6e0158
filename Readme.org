@@ -1,0 +1,22 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:59:03.971595
+#+TITLE: 依楞嚴究竟事懺
+#+PROPERTY: CBETA_ID X74n1478
+#+PROPERTY: ID KR6e0158
+#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 74, No. 1478
+#+PROPERTY: VOL 74
+#+PROPERTY: BASEEDITION X
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0158_X_000-0521a>
+[[file:KR6e0158_001.txt::001-0521a2][前文¶]]
+[[file:KR6e0158_001.txt::001-0521a3][修懺須知]]
+[[file:KR6e0158_001.txt::001-0521a16][上卷入懺啟白¶]]
+[[file:KR6e0158_001.txt::0521c16][開懺偈¶]]
+[[file:KR6e0158_001.txt::0522a3][上卷]]
+[[file:KR6e0158_001.txt::0530a10][創建牟尼菴香火¶]]
+[[file:KR6e0158_002.txt::002-0530a14][下卷]]
+[[file:KR6e0158_002.txt::0537c2][下卷繳懺意¶]]
+[[file:KR6e0158_002.txt::0538a17][修次依楞嚴了義究竟事懺䟦語¶]]
+[[file:KR6e0158_002.txt::0538b10][懺終梵讚¶]]
+[[file:KR6e0158_002.txt::0538b18][直音¶]]
